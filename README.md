@@ -40,4 +40,6 @@ ROS2-based path planning module for UR3 portrait-drawing robot. Converts edge-de
 **Robot**: Universal Robots UR3  
 **Integration**: MoveIt motion planning, YAML configuration
 
+---
+
 *My contribution to a team project building an autonomous portrait-drawing robot. Full system includes image processing, control, and localisation modules.*
