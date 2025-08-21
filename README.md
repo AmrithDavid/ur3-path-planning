@@ -40,13 +40,4 @@ ROS2-based path planning module for UR3 portrait-drawing robot. Converts edge-de
 **Robot**: Universal Robots UR3  
 **Integration**: MoveIt motion planning, YAML configuration
 
-## Performance Metrics
-
-| Metric | Value |
-|--------|-------|
-| Path extraction | < 50ms |
-| Optimisation | < 150ms |
-| Total paths handled | 100+ |
-| Distance reduction | 30-40% |
----
 *My contribution to a team project building an autonomous portrait-drawing robot. Full system includes image processing, control, and localisation modules.*
